@@ -1,0 +1,4 @@
+Django==4.0.1
+dominate==2.6.0
+PyYAML==6.0
+requests==2.22.0

@@ -1,0 +1,6 @@
+callback_uri: [ngrok url]/pocketauth/auth_success
+consumer_key: [your application consumer_key]
+email_pass: [gmail account password (make sure the address is configured for application sign-in)]
+email_user: [source gmail address]
+from_addr: [usually the same as email_user]
+to_addr: [destination email address]
